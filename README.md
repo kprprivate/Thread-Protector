@@ -1,4 +1,3 @@
-```markdown
 # Thread Protector
 
 Thread Protector is a robust C++ library for protecting and monitoring multi-threaded applications. It offers automatic thread management, unresponsive thread detection, and forced termination handling.
@@ -19,7 +18,7 @@ Thread Protector is a robust C++ library for protecting and monitoring multi-thr
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/thread-protector.git
+   git clone https://github.com/kprprivate/Thread-Protector.git
    cd thread-protector
    ```
 
@@ -70,4 +69,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License.
-```
